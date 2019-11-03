@@ -1,0 +1,8 @@
+{
+    "body": "{\"content\":\"hello world\",\"attachment\":\"none\", \"title\":\"Boulevard of broken dreams\", \"author\":\"Green Day\", \"tuning\":\"standard\", \"capo\":\"1\",\"typology\":\"Chords\", \"url\":\"https://tabs.ultimate-guitar.com/tab/green_day/boulevard_of_broken_dreams_chords_146744\"}",
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
